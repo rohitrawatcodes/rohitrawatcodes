@@ -46,11 +46,11 @@ src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-t
 </p>
 
 
-### Socials
+<!-- ### Socials -->
 <!-- 
 <p align="left"> <a href="https://discord.com/users/vetrivel_ravi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/Vetri0206" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/vetrivetri.vel.98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Vetrivel-VP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/velvetri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/VetrivelRavi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/VetrivelRavi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p> -->
 
-### Badges
+<!-- ### Badges -->
 
 <!-- <b>My GitHub Stats</b>
 
@@ -70,10 +70,10 @@ src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-t
 
 <div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
 
-### Support Me
+<!-- ### Support Me
 
 <a href="https://www.buymeacoffee.com/vetrivelravi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+ -->
 <!---
 rohitrawatcodes/rohitrawatcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

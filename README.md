@@ -52,7 +52,7 @@ src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-t
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Vetrivel-VP"><img src="https://github-readme-stats.vercel.app/api?username=Vetrivel-VP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vetrivel-VP's GitHub stats" /></a>
 
@@ -68,7 +68,7 @@ src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-t
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
 
 ### Support Me
 

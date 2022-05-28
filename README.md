@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @rohitrawatcodes
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Dot Net Core
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me  - rohitrawatcse linkedin
-
 
 Hi 👋 My name is Rohit Rawat
 ==============================
@@ -18,9 +12,6 @@ Full Stack Web Developer
 * 🧠  I'm learning Advanced React & DotNet Core
 * 🤝  I'm open to collaborating on Full Stack Web Developement
 
-<!-- <a href="https://www.github.com/Vetrivel-VP" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
- -->
 ### Skills
 
 <p align="left">

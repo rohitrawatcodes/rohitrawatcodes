@@ -1,18 +1,3 @@
-
-Hi 👋 My name is Rohit Rawat
-==============================
-
-Full Stack Web Developer
-------------------------
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Rohit Rawat](http://rohitrawatcse.web.app/)
-* ✉️  You can contact me at [rohitrawatcse@gmail.com](mailto:rohitrawatcse@gmail.com)
-<!-- * 🚀  I'm currently working on [...](http://rohitrawat.web.app/) -->
-* 🧠  I'm learning Advanced React & DotNet Core
-* 🤝  I'm open to collaborating on Full Stack Web Developement
-
-
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Rohit Rawat</h1>
 <h3 align="center">A Enthusiastic Web Developer</h3>
 <p>An enthusiastic Full-stack web developer with hands-on experience in leading, developing & managing projects. Highly skilled decision-maker and problem solver with a specialization in Data Structure and algorithms. Looking forward to working as a developer and building interactive projects with a purposedriven organization.</p>
@@ -57,7 +42,7 @@ Full Stack Web Developer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/sahil-munjhal-40bb38207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil Munjhal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohitrawatcse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sahil Munjhal" height="30" width="40" /></a>
 </p>
 
 
